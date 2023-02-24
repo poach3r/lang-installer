@@ -71,7 +71,7 @@ fi
 if [[ $OS == 'Arch Linux' ]]
 then
     echo 'Installing For Arch...'
-    pacman -S ttf-arphic-uming
+    pacman --noconfirm -S ttf-arphic-uming
 fi
 
 if [[ $OS == 'Debian' ]]
