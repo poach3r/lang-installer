@@ -5,6 +5,6 @@ Automatically installs Chinese, Japanese, and Russian on most Linux Systems.
 
 ```
 git clone https://github.com/poach3r/lang-installer/
-chown +x ~/zh-installer/lang-installer.sh
-sudo ~/zh-installer/lang-installer.sh
+chown +x ~/lang-installer/lang-installer.sh
+sudo ~/lang-installer/lang-installer.sh
 ```
