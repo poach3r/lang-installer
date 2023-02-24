@@ -1,10 +1,10 @@
-# zh-installer
-Automatically installs Chinese on most Linux Systems.
+# lang-installer
+Automatically installs Chinese, Japanese, and Russian on most Linux Systems.
 
 # Usage
 
 ```
-git clone https://github.com/poach3r/zh-installer/
-chown +x ~/zh-installer/zh-installer.sh
-sudo ~/zh-installer/zh-installer.sh
+git clone https://github.com/poach3r/lang-installer/
+chown +x ~/zh-installer/lang-installer.sh
+sudo ~/zh-installer/lang-installer.sh
 ```
